@@ -2,31 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: jinju Ok
     - name: Date of Birth
-      value: 14th March 1879
+      value: 12th Feb 1998
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraudate
+      institution: Ewha Womans University
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Majored Software Engineering
+        - Majored Economics
+        - title: LAb internship
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Find AI models for sound detaction for translation.
+            - Convert sound to strings and eliminate noise.
+    - title: Exchange Student
+      institution: California State University, East Bay
+      year: 2021 Fall
       description:
-        - Description 1.
-        - Description 2.
+        - Majored Computer Science
 
 - title: Experience
   type: time_table
@@ -72,24 +71,12 @@
   type: time_table
   contents:
     - year: 1921
-      items: 
-        - Nobel Prize in Physics 
+      items:
+        - Nobel Prize in Physics
         - Matteucci Medal
     - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
       items:
-        - Description 1.
-        - Description 2.
+        - Max Planck Medal
 
 - title: Other Interests
   type: list

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Read this if ScrollView Layout Guide makes you confused.
-date: 2021-07-04 17:39:00
+date: 2022-11-02 17:39:00
 description: I will make simple tutorial that you can follow so get ready with Xcode and let`s dive into it! Hands on!
 ---
 
